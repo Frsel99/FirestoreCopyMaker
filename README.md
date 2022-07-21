@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Firestore CopyMaker
 
 This project was created with the purpose of helping with the tranfer of data from one firebase storage to another.
 
