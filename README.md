@@ -1,4 +1,4 @@
-# Firestore CopyMaker
+# Firestore CopyMaker <!--Name-->
 
 <br>
 This project was created with the purpose of helping with the tranfer of data from one firebase storage to another.
